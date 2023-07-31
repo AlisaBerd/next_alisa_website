@@ -1,0 +1,20 @@
+.project_container {
+  padding-top: 15%;
+}
+
+.project {
+  background-color: #16253C;
+  width: 2000vm;
+  height: 1100px;
+}
+.project h1 {
+  text-decoration: none;
+  color: #fff;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  padding-left: 5%;
+  padding-top: 3%;
+}
+
+/*# sourceMappingURL=Project_workMobile.module.css.map */

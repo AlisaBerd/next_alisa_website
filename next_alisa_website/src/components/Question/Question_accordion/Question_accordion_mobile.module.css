@@ -1,0 +1,42 @@
+.question_accordion {
+  width: 300px;
+}
+
+.item {
+  background: #16253c;
+  color: white;
+  margin-bottom: 5px;
+  padding: 10px 20px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: normal;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.content {
+  font-size: 16px;
+  font-weight: normal;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.5s cubic-bezier(0, 1, 0, 1);
+}
+
+.content.show {
+  height: auto;
+  max-height: 9999px;
+  transition: all 0.5s cubic-bezier(0, 1, 0, 1);
+}
+
+.span {
+  color: white;
+  font-size: 24px;
+  margin-bottom: 5px;
+  padding: 10px 20px;
+}
+
+/*# sourceMappingURL=Question_accordion_mobile.module.css.map */

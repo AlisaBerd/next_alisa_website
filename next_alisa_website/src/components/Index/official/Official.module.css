@@ -1,0 +1,35 @@
+.deliver {
+  border-radius: 10px;
+  border-color: #ffffff;
+  background-color: rgba(28, 28, 28, 0);
+  height: 75px;
+  width: 312px;
+  text-align: center;
+  color: #fff;
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.official {
+  padding-left: 15%;
+  padding-top: 12%;
+}
+.official h1 {
+  padding: 10px;
+  font-size: 36px;
+  font-weight: 700;
+}
+.official h2 {
+  padding: 10px;
+  font-size: 24px;
+  font-weight: 400;
+}
+.official h3 {
+  padding: 10px;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+/*# sourceMappingURL=Official.module.css.map */

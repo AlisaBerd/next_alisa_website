@@ -1,0 +1,13 @@
+.about_me_block{
+  display: grid;
+  grid-template-columns:
+  3fr 4fr;
+  grid-template-rows: 2fr;
+  padding-left: 12%;
+  padding-top: 5%;
+}
+
+.key_skills{
+  padding-top: 2%;
+  padding-left: 5%;
+}

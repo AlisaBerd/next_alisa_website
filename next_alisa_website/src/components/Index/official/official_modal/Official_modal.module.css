@@ -1,0 +1,93 @@
+.official_modal {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.4);
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: 0.5s;
+}
+
+.official_modal_active {
+  pointer-events: all;
+  transform: scale(1);
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.4);
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal_content {
+  padding: 20px;
+  border-radius: 5px;
+  background-color: white;
+  height: 835px;
+  width: 645px;
+}
+
+.text_is {
+  font-size: 24px;
+  font-weight: bold;
+  color: #16253c;
+}
+
+.paragraf {
+  font-size: 16px;
+  font-weight: normal;
+  color: #16253c;
+}
+
+.label_desktop {
+  font-size: 24px;
+  font-weight: normal;
+  color: #16253c;
+}
+
+.input_desktop {
+  width: 582px;
+  height: 52px;
+  font-size: 24px;
+}
+
+.textarea_desktop {
+  width: 582px;
+  height: 300px;
+  font-size: 24px;
+}
+
+.button {
+  width: 247px;
+  height: 76px;
+  border-radius: 10px;
+  border-color: #16253C;
+  background-color: rgba(28, 28, 28, 0);
+  text-align: center;
+  color: #16253C;
+  appearance: none;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.span {
+  padding-top: 5%;
+  font-size: 11px;
+  font-weight: normal;
+  color: #16253c;
+}
+
+.form_1 {
+  width: 450px;
+  padding-top: 5%;
+}
+
+/*# sourceMappingURL=Official_modal.module.css.map */

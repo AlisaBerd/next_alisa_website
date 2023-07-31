@@ -1,0 +1,25 @@
+.one_element{
+  font-size: 24px;
+  font-weight: normal;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 4%;
+}
+
+.official_modal{
+  display: none;
+}
+
+
+.official_modal_active{
+  position: fixed;
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: #16253c;
+
+  a{
+  color: white;
+  }
+}

@@ -1,0 +1,42 @@
+#page_1 {
+  margin: 0 auto;
+  /*background: url("../../../");*/
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  width: 100vw;
+  height: 49.4792vw;
+  color: #fff;
+}
+
+.landing_official {
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.landing_headliner {
+  font-size: 42px;
+  padding-left: 10%;
+}
+
+.but {
+  padding-left: 35%;
+}
+
+.landing_button {
+  border-radius: 10px;
+  border-color: #fff;
+  background-color: rgba(28, 28, 28, 0);
+  height: 75px;
+  width: 312px;
+  text-align: center;
+  color: #fff;
+  appearance: none;
+  align-items: center;
+  margin: 0 auto;
+}
+.landing_button a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+/*# sourceMappingURL=Landing.module.css.map */

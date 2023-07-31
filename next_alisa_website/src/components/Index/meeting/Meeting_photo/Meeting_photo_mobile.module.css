@@ -1,0 +1,14 @@
+.photo {
+  padding-top: 10%;
+}
+.photo h1 {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+.photo img {
+  width: 255px;
+  height: 323px;
+}
+
+/*# sourceMappingURL=Meeting_photo_mobile.module.css.map */

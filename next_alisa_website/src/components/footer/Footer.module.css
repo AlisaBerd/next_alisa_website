@@ -1,0 +1,29 @@
+.footer {
+  width: 100%;
+  min-height: 450px;
+  align-items: center;
+  background-color: #16253C;
+  display: grid;
+  justify-content: space-evenly;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 190px 1fr;
+  grid-template-areas: "footer_l footer_c footer_r" "footer_b footer_b";
+}
+
+.footer_left {
+  grid-area: footer_l;
+}
+
+.footer_center {
+  grid-area: footer_c;
+}
+
+.footer_right {
+  grid-area: footer_r;
+}
+
+.botton {
+  grid-area: footer_b;
+}
+
+/*# sourceMappingURL=Footer.module.css.map */

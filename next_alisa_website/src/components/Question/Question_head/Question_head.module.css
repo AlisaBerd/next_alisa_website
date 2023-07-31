@@ -1,0 +1,13 @@
+.question_head {
+  width: 1150px;
+}
+.question_head h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+.question_head p {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+/*# sourceMappingURL=Question_head.module.css.map */

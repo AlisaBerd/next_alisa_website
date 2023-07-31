@@ -1,0 +1,30 @@
+.footer_right {
+  padding-top: 13%;
+}
+.footer_right h2 {
+  padding-top: 2%;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  color: #ffffff;
+}
+.footer_right li {
+  text-decoration: none;
+  color: #ffffff;
+  list-style-type: none;
+  font-size: 16px;
+}
+
+.deliver {
+  border-radius: 10px;
+  border-color: white;
+  background-color: rgba(28, 28, 28, 0);
+  height: 75px;
+  width: 312px;
+  color: #fff;
+  appearance: none;
+  align-items: center;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=Footer_right.module.css.map */

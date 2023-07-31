@@ -1,0 +1,37 @@
+.deliver{
+    border-radius: 10px;
+    border-color: #ffffff;
+    background-color: rgba(28,28,28,0);
+    height:75px;
+    width:312px;
+    text-align: center;
+    color: #fff;
+    appearance: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.official{
+  padding-left: 15%;
+  padding-top: 12%;
+
+  h1{
+    padding: 10px;
+    font-size: 36px;
+    font-weight: 700;
+  }
+
+  h2{
+    padding: 10px;
+    font-size: 24px;
+    font-weight: 400;
+  }
+
+  h3{
+    padding: 10px;
+    font-size: 24px;
+    font-weight: 400;
+  }
+
+}

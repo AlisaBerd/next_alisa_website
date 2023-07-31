@@ -1,0 +1,105 @@
+.contact_finish {
+  background-color: #16253c;
+  position: relative;
+  padding: 1rem 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+.contact_finish h1 {
+  color: white;
+  padding-left: 30%;
+  padding-top: 10%;
+}
+.contact_finish p {
+  color: white;
+  padding-left: 15%;
+  width: 90%;
+}
+.contact_finish button {
+  border-radius: 10px;
+  border-color: #fff;
+  background-color: rgba(28, 28, 28, 0);
+  height: 75px;
+  width: 312px;
+  text-align: center;
+  color: #fff;
+  appearance: none;
+  align-items: center;
+  margin: 0 auto;
+}
+.contact_finish button a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.contact_finish_button {
+  padding-left: 32%;
+}
+
+.alert {
+  position: relative;
+  padding: 1rem 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+.error {
+  color: #842029;
+  background-color: #f8d7da;
+  border-color: #f5c2c7;
+}
+
+.success {
+  color: #0f5132;
+  background-color: #d1e7dd;
+  border-color: #badbcc;
+}
+
+.warning {
+  color: #664d03;
+  background-color: #fff3cd;
+  border-color: #ffecb5;
+}
+
+.primary {
+  color: #084298;
+  background-color: #cfe2ff;
+  border-color: #b6d4fe;
+}
+
+.secondary {
+  color: #41464b;
+  background-color: #e2e3e5;
+  border-color: #d3d6d8;
+}
+
+.info {
+  color: #055160;
+  background-color: #cff4fc;
+  border-color: #b6effb;
+}
+
+/* The close button */
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+  color: black;
+}
+
+.hide {
+  display: none;
+}
+
+/*# sourceMappingURL=Contact_finish.module.css.map */

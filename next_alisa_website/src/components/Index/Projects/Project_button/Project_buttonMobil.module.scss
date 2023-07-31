@@ -1,0 +1,32 @@
+.project_it_button{
+  padding-left: 10%;
+  margin-top: 4%;
+  margin-bottom: 1%;
+}
+
+.button_project{
+  border-radius: 10px;
+  border-color: #fff;
+  background-color: rgba(28,28,28,0);
+  height:75px;
+  width:262px;
+  text-align: center;
+  color: #fff;
+  appearance: none;
+  align-items: center;
+  margin:0 auto;
+
+  a{
+    text-decoration: none;
+    color: #ffffff;
+  }
+}
+
+.button_project:hover{
+  background-color: white;
+
+  a{
+    text-decoration: none;
+    color: #16253c;
+  }
+}

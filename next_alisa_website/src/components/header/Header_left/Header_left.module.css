@@ -1,0 +1,22 @@
+.header_left {
+  grid-area: l;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text a {
+  font-size: 36px;
+  /*margin-Header_left: 50%;*/
+  color: #ffffff;
+  font-family: Cinzel;
+  text-decoration: none;
+}
+
+.logo {
+  /*margin-top: 10% ;*/
+  width: 80px;
+  height: 80px;
+}
+
+/*# sourceMappingURL=Header_left.module.css.map */

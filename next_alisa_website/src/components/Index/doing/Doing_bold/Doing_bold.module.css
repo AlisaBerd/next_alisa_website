@@ -1,0 +1,9 @@
+.doing_bold {
+  padding-top: 20%;
+  grid-area: doing_bold;
+  font-size: 36px;
+  font-weight: 700;
+  padding-left: 21%;
+}
+
+/*# sourceMappingURL=Doing_bold.module.css.map */

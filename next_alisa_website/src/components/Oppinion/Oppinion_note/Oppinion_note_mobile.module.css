@@ -1,0 +1,24 @@
+@charset "UTF-8";
+.oppinion_note {
+  width: 308px;
+  height: 375px;
+  padding: 32px;
+  /* Свойство отвечающее за формирование тени
+   8px - отступ по оси Х
+   10px - отступ по оси Y
+   5px - радиус размытия тения
+   2px - радиус распространения
+   rgba - функция формирующая цвет тени
+  */
+  box-shadow: 2px 5px 5px 2px rgba(0, 0, 50, 0.2);
+}
+.oppinion_note p {
+  font-size: 16px;
+  font-weight: normal;
+}
+.oppinion_note h2 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=Oppinion_note_mobile.module.css.map */

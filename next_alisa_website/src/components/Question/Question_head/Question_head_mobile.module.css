@@ -1,0 +1,13 @@
+.question_head_mobile {
+  width: 300px;
+}
+.question_head_mobile h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+.question_head_mobile p {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+/*# sourceMappingURL=Question_head_mobile.module.css.map */

@@ -1,0 +1,30 @@
+.benefits_container {
+  padding-top: 20%;
+  display: grid;
+  align-items: center;
+  justify-content: space-evenly;
+  padding-left: 15%;
+  padding-bottom: 5%;
+  grid-template-columns: 4fr 4fr;
+  grid-template-areas: "b_t" "b_p";
+  grid-template-rows: 5fr;
+}
+.benefits_container h2 {
+  color: #16253C;
+  font-size: 24px;
+  font-weight: 500;
+}
+.benefits_container p {
+  color: #16253C;
+}
+
+.benefits_photo {
+  grid-area: b_p;
+}
+
+.benefits_text_grand {
+  grid-area: b_t;
+  padding-bottom: 20%;
+}
+
+/*# sourceMappingURL=Benefits.module.css.map */

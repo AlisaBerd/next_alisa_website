@@ -1,0 +1,21 @@
+.benefits_container {
+  padding-top: 10%;
+  padding-left: 5%;
+  padding-bottom: 6%;
+  width: 92%;
+}
+.benefits_container h2 {
+  color: #16253C;
+  font-size: 24px;
+  font-weight: 500;
+}
+.benefits_container p {
+  color: #16253C;
+}
+.benefits_container img {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+/*# sourceMappingURL=BenrfitsMobile.module.css.map */

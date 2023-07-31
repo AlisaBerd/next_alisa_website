@@ -1,0 +1,122 @@
+.landing_official h1 {
+  padding-left: 28%;
+  font-size: 36px;
+  font-weight: bold;
+}
+.landing_official p {
+  font-size: 42px;
+  font-weight: bold;
+  padding-left: 25%;
+}
+
+.landing_block {
+  width: 100vw;
+  height: 49.4792vw;
+  color: #fff;
+}
+
+.landing_second {
+  padding-top: 15%;
+  text-align: center;
+  padding-left: 18%;
+}
+.landing_second p {
+  width: 900px;
+}
+
+.landing_tariffs {
+  padding-left: 15%;
+  margin: 0 auto;
+  display: grid;
+  grid-column-gap: 5px;
+  grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+  justify-content: space-around;
+}
+
+.landing_benifits_grand {
+  padding-top: 15%;
+  padding-bottom: 10%;
+}
+.landing_benifits_grand h1 {
+  padding-left: 28%;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.landing_benifits {
+  display: grid;
+  padding-left: 33%;
+  grid-template-columns: repeat(4, 15%);
+}
+
+.landing_tariffs_grand {
+  padding-top: 15%;
+}
+.landing_tariffs_grand h1 {
+  padding-left: 42%;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.landing_tarifo {
+  background: #16253C;
+  border-radius: 10px;
+  width: 345px;
+  height: 789px;
+}
+.landing_tarifo ul {
+  list-style-type: none;
+}
+.landing_tarifo li {
+  padding-left: 6%;
+  padding-top: 2%;
+  width: 295px;
+  color: white;
+  font-size: 16px;
+}
+.landing_tarifo h2 {
+  font-size: 24px;
+  font-weight: bolder;
+  color: white;
+  padding-top: 3%;
+  margin: 0 auto;
+  display: grid;
+  grid-column-gap: 5px;
+  justify-content: space-around;
+}
+
+.landing_par {
+  font-size: 24px;
+  font-weight: normal;
+  padding-top: 32%;
+  padding-left: 23%;
+}
+
+.button_block {
+  padding-left: 37%;
+}
+
+.landing_button {
+  border-radius: 10px;
+  border-color: #fff;
+  background-color: rgba(28, 28, 28, 0);
+  height: 75px;
+  width: 312px;
+  text-align: center;
+  color: #fff;
+  appearance: none;
+  align-items: center;
+  margin: 0 auto;
+}
+.landing_button a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.landing_headliner {
+  font-size: 42px;
+  font-weight: bold;
+  padding-left: 25%;
+}
+
+/*# sourceMappingURL=LandingWebDesigner.module.css.map */

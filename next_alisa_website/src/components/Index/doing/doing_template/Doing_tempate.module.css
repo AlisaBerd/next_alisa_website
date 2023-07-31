@@ -1,0 +1,27 @@
+.doing_template {
+  background: #16253C;
+  border-radius: 10px;
+  width: 365px;
+  height: 458px;
+  padding-left: 4%;
+  padding-top: 5%;
+}
+.doing_template h5 {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+  padding-left: 4%;
+}
+.doing_template p {
+  padding-top: 2%;
+  color: #fff;
+  width: 278px;
+  font-size: 16px;
+  padding-left: 4%;
+}
+.doing_template img {
+  padding-top: 5%;
+  padding-left: 5%;
+}
+
+/*# sourceMappingURL=Doing_tempate.module.css.map */

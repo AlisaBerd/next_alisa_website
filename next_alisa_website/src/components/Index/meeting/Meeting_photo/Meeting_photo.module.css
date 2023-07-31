@@ -1,0 +1,16 @@
+.photo_container {
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+
+.photo {
+  padding-left: 35%;
+}
+.photo h1 {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+/*# sourceMappingURL=Meeting_photo.module.css.map */

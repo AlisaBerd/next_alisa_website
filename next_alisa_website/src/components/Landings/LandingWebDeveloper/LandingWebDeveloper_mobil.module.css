@@ -1,0 +1,101 @@
+.landing_par {
+  font-size: 16px;
+  font-weight: normal;
+  width: 80%;
+  padding-left: 5%;
+  padding-top: 35%;
+}
+
+.landing_headliner {
+  padding-top: 130%;
+  font-size: 32px;
+  font-weight: bold;
+  width: 80%;
+  padding-left: 5%;
+}
+
+.button_block {
+  padding-left: 5%;
+}
+
+.landing_button {
+  border-radius: 10px;
+  border-color: #fff;
+  background-color: rgba(28, 28, 28, 0);
+  height: 75px;
+  width: 250px;
+  text-align: center;
+  color: #fff;
+  appearance: none;
+  align-items: center;
+  margin: 0 auto;
+}
+.landing_button a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.landing_second {
+  padding-top: 15%;
+  padding-left: 5%;
+}
+.landing_second p {
+  width: 340px;
+}
+.landing_second img {
+  width: 340px;
+}
+
+.landing_benifits_grand {
+  padding-top: 15%;
+  padding-bottom: 10%;
+}
+.landing_benifits_grand h1 {
+  padding-left: 5%;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.landing_benifits {
+  padding-left: 5%;
+  width: 80%;
+}
+
+.landing_tariffs_grand {
+  padding-top: 5%;
+}
+.landing_tariffs_grand h1 {
+  padding-left: 5%;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.landing_tariffs {
+  grid-column-gap: 5px;
+  padding-left: 5%;
+}
+
+.landing_tarifo {
+  background: #16253C;
+  border-radius: 10px;
+}
+.landing_tarifo ul {
+  list-style-type: none;
+}
+.landing_tarifo li {
+  padding-top: 3%;
+  color: white;
+  font-size: 16px;
+}
+.landing_tarifo h2 {
+  font-size: 24px;
+  font-weight: bolder;
+  color: white;
+  padding-top: 3%;
+  margin: 0 auto;
+  display: grid;
+  grid-column-gap: 5px;
+  justify-content: space-around;
+}
+
+/*# sourceMappingURL=LandingWebDeveloper_mobil.module.css.map */

@@ -1,0 +1,71 @@
+.oneString {
+  padding-left: 10%;
+  width: 100%;
+  height: 800px;
+  justify-content: space-evenly;
+  display: grid;
+  align-items: center;
+  grid-template-columns: 3fr 4fr;
+  grid-template-rows: 5fr;
+}
+.oneString h2 {
+  font-size: 36px;
+  font-weight: bolder;
+}
+.oneString h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.landing_sale {
+  border-radius: 10px;
+  border-color: #16253c;
+  background-color: rgba(28, 28, 28, 0);
+  height: 75px;
+  width: 312px;
+  text-align: center;
+  color: #16253c;
+  appearance: none;
+  align-items: center;
+  margin: 0 auto;
+}
+.landing_sale a {
+  text-decoration: none;
+  color: #16253c;
+}
+
+.else {
+  padding-top: 15%;
+  padding-left: 10%;
+  padding-bottom: 15%;
+}
+.else h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+.else p {
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.elseblock {
+  display: grid;
+  grid-column-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(375px, 1fr));
+}
+
+.bloc {
+  padding-top: 5%;
+  display: grid;
+  grid-column-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(375px, 1fr));
+}
+.bloc img {
+  border-radius: 520px;
+}
+
+.texts {
+  padding-top: 10%;
+}
+
+/*# sourceMappingURL=LandingSale.module.css.map */

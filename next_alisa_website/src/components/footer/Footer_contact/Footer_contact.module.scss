@@ -1,0 +1,35 @@
+.footer_right{
+  padding-top: 5%;
+  padding-left: 8%;
+
+  h2{
+    padding-left: 2%;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    color: #ffffff;
+  }
+
+  ul{
+    padding-left: 2%;
+  }
+
+  li{
+    text-decoration: none;
+    color: #ffffff;
+    list-style-type: none;
+    font-size: 16px;
+  }
+}
+
+.deliver{
+  border-radius: 10px;
+  border-color: white;
+  background-color: rgba(28,28,28,0);
+  height:67px;
+  width:238px;
+  color: #fff;
+  appearance: none;
+  align-items: center;
+  justify-content: center;
+}

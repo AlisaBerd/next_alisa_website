@@ -1,0 +1,15 @@
+.project {
+  width: 423.25px;
+  height: 403px;
+  padding-top: 2%;
+}
+
+.project_work_container {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(3, 440px);
+  grid-template-rows: repeat(2, 410px);
+  grid-gap: 5px;
+}
+
+/*# sourceMappingURL=Project_work.module.css.map */

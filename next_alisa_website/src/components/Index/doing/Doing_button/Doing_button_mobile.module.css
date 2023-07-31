@@ -1,0 +1,23 @@
+.doing_it_button {
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+
+.doing_button {
+  border-radius: 10px;
+  border-color: #16253C;
+  background-color: rgba(28, 28, 28, 0);
+  height: 75px;
+  width: 262px;
+  text-align: center;
+  color: #16253C;
+  appearance: none;
+  align-items: center;
+  margin: 0 auto;
+}
+.doing_button a {
+  text-decoration: none;
+  color: #16253C;
+}
+
+/*# sourceMappingURL=Doing_button_mobile.module.css.map */

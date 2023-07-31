@@ -1,0 +1,17 @@
+.bottom{
+  padding-left: 18%;
+  grid-template-columns: 1fr 1fr ;
+  grid-template-areas:
+  "logo paragraf" ;
+}
+
+.logo{
+  grid-area: logo;
+}
+
+
+.paragraf{
+  grid-area: paragraf;
+}
+
+

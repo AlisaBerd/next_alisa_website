@@ -1,0 +1,33 @@
+.header_center{
+  grid-area: c;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.header_list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.grid_list {
+
+  a {
+    list-style-type: none;
+    font-size: 18px;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px;
+  }
+
+  a:hover{
+    color: #BEBEBE;
+    text-decoration: none;
+  }
+}
+
+.active{
+    color: #615E5E;
+}

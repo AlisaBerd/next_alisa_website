@@ -1,0 +1,105 @@
+.landing_official{
+  padding-top: 5%;
+  padding-bottom: 10%;
+}
+
+.landing_par{
+  font-size: 24px;
+  font-weight: normal;
+  padding-top: 32%;
+  padding-left: 35%;
+}
+
+.landing_headliner{
+  font-size: 42px;
+  font-weight: bold;
+  padding-left: 28%;
+}
+
+.button_block{
+  padding-left: 37%;
+}
+
+.landing_button{
+  border-radius: 10px;
+  border-color: #fff;
+  background-color: rgba(28,28,28,0);
+  height:75px;
+  width:312px;
+  text-align: center;
+  color: #fff;
+  appearance: none;
+  align-items: center;
+  margin:0 auto;
+  a{
+    text-decoration: none;
+    color: #fff;
+  }
+}
+
+.landing_second{
+  padding-top: 15%;
+  //justify-content: space-evenly;
+  text-align: center;
+  padding-left: 18%;
+  //display: grid;
+  //align-items: center;
+  //grid-template-columns: 1fr 2fr;
+  ////grid-template-rows:  5fr;
+
+  p{
+    width: 900px;
+  }
+}
+
+.landing_tariffs_grand{
+  padding-top: 15%;
+  h1{
+    padding-left: 42%;
+    font-size: 36px;
+    font-weight: bold;
+  }
+}
+
+.landing_tariffs{
+  padding-top: 1%;
+  padding-left: 17%;
+//  margin: 0 auto;
+  display: grid;
+ // grid-column-gap: 5px;
+  grid-template-columns: repeat(auto-fill, minmax(325px, 1fr));
+  justify-content: space-around;
+}
+
+
+.landing_tarifo{
+    background:#16253C;
+    border-radius: 10px;
+    width: 345px;
+    height: 550px;
+
+    ul{
+      list-style-type: none
+    }
+
+    li{
+      padding-top: 3%;
+      color: white;
+      font-size: 16px;
+      width: 295px;
+      padding-left: 6%;
+    }
+
+
+    h2{
+      font-size: 24px;
+      font-weight: bolder;
+      color: white;
+      padding-top: 3%;
+      //margin: 0 auto;
+      display: grid;
+      padding-left: 6%;
+      //grid-column-gap: 5px;
+      //justify-content: space-around;
+  }
+}

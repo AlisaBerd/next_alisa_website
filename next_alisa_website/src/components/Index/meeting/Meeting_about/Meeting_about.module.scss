@@ -1,0 +1,60 @@
+.about_container{
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  margin: 20%;
+}
+
+.about{
+  //padding-right: 20%;
+
+
+  h1{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+  }
+
+  p{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+  }
+}
+
+.button_about_me{
+  padding-top: 5%;
+
+  button{
+    border-radius: 10px;
+    border-color: #16253C;
+    background-color: rgba(28,28,28,0);
+    height:75px;
+    width:312px;
+    text-align: center;
+    color: #16253C;
+    appearance: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  a{
+    text-decoration: none;
+    color: #16253C;
+  }
+}
+
+//.meeting_about_button {
+//  color: black;
+//}
+//.meeting_about_button:hover {
+//    background: #16253C;
+//    color: #ffffff;
+//
+//    a{
+//      text-decoration: none;
+//      color: #ffffff;
+//    }
+//}
+

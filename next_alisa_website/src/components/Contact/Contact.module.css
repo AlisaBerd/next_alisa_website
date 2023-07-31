@@ -1,0 +1,65 @@
+.contact {
+  padding-left: 15%;
+  padding-top: 7%;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+}
+
+.text_is {
+  font-size: 24px;
+  font-weight: bold;
+  color: #16253c;
+}
+
+.label_desktop {
+  font-size: 24px;
+  font-weight: normal;
+  color: #16253c;
+}
+
+.input_desktop {
+  width: 582px;
+  height: 52px;
+  font-size: 24px;
+}
+
+.textarea_desktop {
+  width: 582px;
+  height: 300px;
+  font-size: 24px;
+}
+
+.button {
+  width: 247px;
+  height: 76px;
+  border-radius: 10px;
+  border-color: #16253C;
+  background-color: rgba(28, 28, 28, 0);
+  text-align: center;
+  color: #16253C;
+  appearance: none;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.span {
+  font-size: 11px;
+  font-weight: normal;
+  color: #16253c;
+}
+
+.form {
+  height: 625px;
+  width: 645px;
+}
+
+.img {
+  height: 895px;
+  width: 455px;
+  padding-bottom: 48%;
+}
+
+/*# sourceMappingURL=Contact.module.css.map */

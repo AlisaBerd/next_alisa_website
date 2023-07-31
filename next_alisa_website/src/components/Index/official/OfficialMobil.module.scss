@@ -1,0 +1,48 @@
+#page_2 {
+  margin: 0 auto;
+  //background: url("../../../img/mobil_first_page.jpg");
+  /*background-repeat: no-repeat;
+  background-size: 100% auto;*/
+  width: 400px;
+  height: 755px;
+  color: #fff;
+}
+
+.deliver_mobil{
+  border-radius: 10px;
+  border-color: #ffffff;
+  background-color: rgba(28,28,28,0);
+  height:75px;
+  width:262px;
+  text-align: center;
+  color: #fff;
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.official_mobil{
+  padding-left: 7%;
+  padding-top: 67%;
+  width: 80%;
+  /*padding-top: 12%;*/
+
+  h1{
+    /*padding: 10px;*/
+    font-size: 26px;
+    font-weight: 700;
+  }
+
+  h2{
+    /*padding: 10px;*/
+    font-size: 20px;
+    font-weight: 400;
+  }
+
+  h3{
+   /* padding: 10px;*/
+    font-size: 16px;
+    font-weight: 400;
+  }
+}

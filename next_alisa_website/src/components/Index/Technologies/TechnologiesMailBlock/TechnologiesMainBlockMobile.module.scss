@@ -1,0 +1,12 @@
+.main_block_css_container{
+
+}
+
+.tech_main_block{
+  max-width: 1000px;
+  background-color: white;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr [col-start]);
+}
+
+

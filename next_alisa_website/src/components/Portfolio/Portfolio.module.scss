@@ -1,0 +1,65 @@
+.portfolio{
+  padding-left: 12%;
+  padding-top: 5%;
+}
+
+.portfolio_projects{
+  padding-top: 2%;
+  display: grid;
+  grid-template-columns: repeat(3, 420px);
+  grid-template-rows: repeat(4, 370px);
+}
+
+
+.portfolio_button{
+  display:grid;
+  grid-template-rows: 65px 4fr ;
+  /*grid-template-columns: 16% 5fr ;*/
+  padding-top: 0.5%;
+  grid-column-gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.button{
+  width: 198px;
+  height: 54px;
+  border: 1px solid #16253C;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: normal;
+  background-color: rgba(28,28,28,0);
+
+  a:hover{
+    background-color: #16253C;
+    color: #ffffff;
+  }
+}
+
+.button_active{
+  background-color: #16253C;
+  color: #ffffff;
+  width: 198px;
+  height: 54px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.else{
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 30%;
+}
+
+.portfolio_else{
+  width: 347px;
+  height: 82px;
+  border: 1px solid #16253C;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: normal;
+  align-items: center;
+  background-color: rgba(28,28,28,0);
+  /*margin: 0 auto;*/
+  /*display: block;*/
+}

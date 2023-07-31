@@ -1,0 +1,15 @@
+.main_block_css_container{
+
+}
+
+.tech_main_block{
+  max-width: 1000px;
+  background-color: white;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr [col-start]);
+}
+
+.textliner{
+  font-size: 24px;
+  font-weight: 500;
+}
