@@ -33,7 +33,7 @@ export default  function AboutMobile(props){
         {photo_about_me [1]}
         </div>
         <ul className={about_mobile.key}>
-          <h1>Ключевые навыки.</h1>
+          <h1>Ключевые навыки</h1>
           {key_array}
         </ul>
         <ul className={about_mobile.key}>
